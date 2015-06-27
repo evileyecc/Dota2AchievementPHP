@@ -1,0 +1,807 @@
+[ 2015-06-27T09:34:28+08:00 ] 127.0.0.1 /achievement/index.php/achievement
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-06-27T09:34:58+08:00 ] 127.0.0.1 /achievement/index.php/achievement
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-06-27T10:58:14+08:00 ] 127.0.0.1 /achievement/index.php/achievement
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-06-27T10:58:25+08:00 ] 127.0.0.1 /achievement/index.php/achievement/GetAchievement/SteamID/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:GetAchievement
+
+[ 2015-06-27T10:58:35+08:00 ] 127.0.0.1 /achievement/index.php/achievement/index/GetAchievement/SteamID/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2015-06-27T10:58:57+08:00 ] 127.0.0.1 /achievement/index.php/achievement/index/GetAchievement/SteamID/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2015-06-27T10:58:58+08:00 ] 127.0.0.1 /achievement/index.php/achievement/index/GetAchievement/SteamID/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.011001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011001s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2015-06-27T10:58:58+08:00 ] 127.0.0.1 /achievement/index.php/achievement/index/GetAchievement/SteamID/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2015-06-27T10:58:58+08:00 ] 127.0.0.1 /achievement/index.php/achievement/index/GetAchievement/SteamID/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2015-06-27T10:59:46+08:00 ] 127.0.0.1 /achievement/index.php/achievement/index/GetAchievement/SteamID/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2015-06-27T10:59:47+08:00 ] 127.0.0.1 /achievement/index.php/achievement/index/GetAchievement/SteamID/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2015-06-27T10:59:47+08:00 ] 127.0.0.1 /achievement/index.php/achievement/index/GetAchievement/SteamID/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2015-06-27T10:59:47+08:00 ] 127.0.0.1 /achievement/index.php/achievement/index/GetAchievement/SteamID/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2015-06-27T10:59:47+08:00 ] 127.0.0.1 /achievement/index.php/achievement/index/GetAchievement/SteamID/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2015-06-27T11:00:11+08:00 ] 127.0.0.1 /achievement/index.php/achievement/index/GetAchievement/SteamID/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011000s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2015-06-27T11:00:51+08:00 ] 127.0.0.1 /achievement/index.php/achievement/index/GetAchievement/SteamID/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2015-06-27T11:00:52+08:00 ] 127.0.0.1 /achievement/index.php/achievement/index/GetAchievement/SteamID/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2015-06-27T11:00:52+08:00 ] 127.0.0.1 /achievement/index.php/achievement/index/GetAchievement/SteamID/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2015-06-27T11:00:52+08:00 ] 127.0.0.1 /achievement/index.php/achievement/index/GetAchievement/SteamID/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2015-06-27T11:00:52+08:00 ] 127.0.0.1 /achievement/index.php/achievement/index/GetAchievement/SteamID/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2015-06-27T11:01:12+08:00 ] 127.0.0.1 /achievement/index.php/achievement/index/GetAchievement/SteamID/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2015-06-27T11:01:12+08:00 ] 127.0.0.1 /achievement/index.php/achievement/index/GetAchievement/SteamID/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2015-06-27T11:01:12+08:00 ] 127.0.0.1 /achievement/index.php/achievement/index/GetAchievement/SteamID/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2015-06-27T11:01:13+08:00 ] 127.0.0.1 /achievement/index.php/achievement/index/GetAchievement/SteamID/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2015-06-27T11:01:44+08:00 ] 127.0.0.1 /achievement/index.php/achievement/index/GetAchievement/SteamID/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: lite D:\wamp\www\achievement\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+
+[ 2015-06-27T11:01:51+08:00 ] 127.0.0.1 /achievement/index.php/achievement/index/GetAchievement/SteamID/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: lite D:\wamp\www\achievement\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+
+[ 2015-06-27T11:02:14+08:00 ] 127.0.0.1 /achievement/index.php/achievement/index/GetAchievement/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 参数错误或者未定义:SteamID
+
+[ 2015-06-27T11:02:15+08:00 ] 127.0.0.1 /achievement/index.php/achievement/index/GetAchievement/SteamID/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+NOTIC: [8] Undefined index: lite D:\wamp\www\achievement\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+
+[ 2015-06-27T11:03:23+08:00 ] 127.0.0.1 /achievement/index.php/achievement/index/GetAchievement/AchievementID/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: lite D:\wamp\www\achievement\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+
+[ 2015-06-27T11:05:24+08:00 ] 127.0.0.1 /achievement/index.php/achievement/index/GetAchievement/AchievementID/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: lite D:\wamp\www\achievement\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+
+[ 2015-06-27T11:07:37+08:00 ] 127.0.0.1 /achievement/index.php/achievement/index/GetAchievement/AchievementID/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: lite D:\wamp\www\achievement\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+
+[ 2015-06-27T11:09:35+08:00 ] 127.0.0.1 /achievement/Achievement/index/GetAchievement/AchievementID/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: lite D:\wamp\www\achievement\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+
+[ 2015-06-27T11:09:43+08:00 ] 127.0.0.1 /achievement/Achievement/index/GetAchievement/AchievementID/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: lite D:\wamp\www\achievement\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+
+[ 2015-06-27T11:09:44+08:00 ] 127.0.0.1 /achievement/Achievement/index/GetAchievement/AchievementID/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: lite D:\wamp\www\achievement\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+
+[ 2015-06-27T11:09:45+08:00 ] 127.0.0.1 /achievement/Achievement/index/GetAchievement/AchievementID/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: lite D:\wamp\www\achievement\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+
+[ 2015-06-27T11:20:05+08:00 ] 127.0.0.1 /achievement/Achievement/GetAchievement/AchievementID/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:GetAchievement
+
+[ 2015-06-27T11:20:14+08:00 ] 127.0.0.1 /achievement/Achievement/index/GetAchievement/AchievementID/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: lite D:\wamp\www\achievement\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+
+[ 2015-06-27T11:20:58+08:00 ] 127.0.0.1 /achievement/Achievement/index/GetAchievement/AchievementID/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: lite D:\wamp\www\achievement\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+
+[ 2015-06-27T11:23:31+08:00 ] 127.0.0.1 /achievement/Achievement/index/GetAchievement/AchievementID/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: lite D:\wamp\www\achievement\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+
+[ 2015-06-27T11:23:33+08:00 ] 127.0.0.1 /achievement/Achievement/index/GetAchievement/AchievementID/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: lite D:\wamp\www\achievement\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+
+[ 2015-06-27T12:47:05+08:00 ] 127.0.0.1 /achievement/Achievement/index/GetAchievement/AchievementID/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: lite D:\wamp\www\achievement\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+
+[ 2015-06-27T12:47:18+08:00 ] 127.0.0.1 /achievement/Achievement/index/GetAchievement/AchievementID/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Undefined index: lite D:\wamp\www\achievement\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+
+[ 2015-06-27T12:47:32+08:00 ] 127.0.0.1 /achievement/Achievement/index/GetAchievement/AchievementID/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: lite D:\wamp\www\achievement\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+NOTIC: [8] Undefined index: id D:\wamp\www\achievement\achievement\Achievement\Controller\IndexController.class.php 第 17 行.
+
+[ 2015-06-27T12:47:39+08:00 ] 127.0.0.1 /achievement/Achievement/index/GetAchievement/AchievementID/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: lite D:\wamp\www\achievement\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+
+[ 2015-06-27T12:47:52+08:00 ] 127.0.0.1 /achievement/Achievement/index/GetAchievement/AchievementID/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+NOTIC: [8] Undefined index: lite D:\wamp\www\achievement\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+
+[ 2015-06-27T12:47:57+08:00 ] 127.0.0.1 /achievement/Achievement/index/GetAchievement/AchievementID/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: lite D:\wamp\www\achievement\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+
+[ 2015-06-27T12:51:17+08:00 ] 127.0.0.1 /achievement/Achievement/index/GetPlayerAchievement/SteamID/123456
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: lite D:\wamp\www\achievement\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+NOTIC: [8] Undefined variable: user D:\wamp\www\achievement\achievement\Achievement\Controller\IndexController.class.php 第 25 行.
+
+[ 2015-06-27T12:51:34+08:00 ] 127.0.0.1 /achievement/Achievement/index/GetPlayerAchievement/SteamID/123456
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: lite D:\wamp\www\achievement\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+
+[ 2015-06-27T13:01:16+08:00 ] 127.0.0.1 /achievement/Achievement/index/GetPlayerAchievement/SteamID/123456
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: lite D:\wamp\www\achievement\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+
+[ 2015-06-27T13:01:31+08:00 ] 127.0.0.1 /achievement/Achievement/index/GetPlayerAchievement/SteamID/123456
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Undefined index: lite D:\wamp\www\achievement\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+
+[ 2015-06-27T13:01:57+08:00 ] 127.0.0.1 /achievement/Achievement/index/GetPlayerAchievement/SteamID/123456
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: lite D:\wamp\www\achievement\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+
+[ 2015-06-27T13:02:26+08:00 ] 127.0.0.1 /achievement/Achievement/index/GetPlayerAchievement/SteamID/123456
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-06-27T13:02:40+08:00 ] 127.0.0.1 /achievement/Achievement/index/GetPlayerAchievement/SteamID/123456
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-06-27T13:03:17+08:00 ] 127.0.0.1 /achievement/Achievement/index/GetPlayerAchievement/SteamID/123456
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: lite D:\wamp\www\achievement\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+NOTIC: [2] array_fill() expects parameter 1 to be long, array given D:\wamp\www\achievement\achievement\Achievement\Controller\IndexController.class.php 第 43 行.
+NOTIC: [2] array_fill() expects parameter 1 to be long, array given D:\wamp\www\achievement\achievement\Achievement\Controller\IndexController.class.php 第 43 行.
+
+[ 2015-06-27T13:03:48+08:00 ] 127.0.0.1 /achievement/Achievement/index/GetPlayerAchievement/SteamID/123456
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: lite D:\wamp\www\achievement\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+
+[ 2015-06-27T13:05:43+08:00 ] 127.0.0.1 /achievement/Achievement/index/GetPlayerAchievement/SteamID/123456
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-06-27T13:06:20+08:00 ] 127.0.0.1 /achievement/Achievement/index/GetPlayerAchievement/SteamID/123456
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-06-27T13:06:21+08:00 ] 127.0.0.1 /achievement/Achievement/index/GetPlayerAchievement/SteamID/123456
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-06-27T13:06:21+08:00 ] 127.0.0.1 /achievement/Achievement/index/GetPlayerAchievement/SteamID/123456
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-06-27T13:06:29+08:00 ] 127.0.0.1 /achievement/Achievement/index/GetPlayerAchievement/SteamID/123456
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+NOTIC: [8] Undefined index: lite D:\wamp\www\achievement\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+
+[ 2015-06-27T13:07:31+08:00 ] 127.0.0.1 /achievement/Achievement/index/GetPlayerAchievement/SteamID/123456
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: lite D:\wamp\www\achievement\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+
+[ 2015-06-27T13:08:07+08:00 ] 127.0.0.1 /achievement/Achievement/index/GetPlayerAchievement/SteamID/123456
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: lite D:\wamp\www\achievement\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+
+[ 2015-06-27T13:08:26+08:00 ] 127.0.0.1 /achievement/Achievement/index/GetPlayerAchievement/SteamID/123456
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: lite D:\wamp\www\achievement\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+
+[ 2015-06-27T13:08:32+08:00 ] 127.0.0.1 /achievement/Achievement/index/GetPlayerAchievement/SteamID/123456
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: lite D:\wamp\www\achievement\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+
+[ 2015-06-27T13:20:56+08:00 ] 127.0.0.1 /achievement/Achievement/index/GetPlayerAchievement/SteamID/123456
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: lite D:\wamp\www\achievement\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+
+[ 2015-06-27T13:20:57+08:00 ] 127.0.0.1 /achievement/Achievement/index/GetPlayerAchievement/SteamID/123456
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: lite D:\wamp\www\achievement\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+
+[ 2015-06-27T13:21:26+08:00 ] 127.0.0.1 /achievement/Achievement/index/GetPlayerAchievement/SteamID/123456
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: lite D:\wamp\www\achievement\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+
+[ 2015-06-27T13:21:29+08:00 ] 127.0.0.1 /achievement/Achievement/index/GetPlayerAchievement/SteamID/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: lite D:\wamp\www\achievement\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+
+[ 2015-06-27T13:22:03+08:00 ] 127.0.0.1 /achievement/Achievement/index/GetPlayerAchievement/SteamID/12
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: lite D:\wamp\www\achievement\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+
+[ 2015-06-27T13:22:09+08:00 ] 127.0.0.1 /achievement/Achievement/index/GetPlayerAchievement/SteamID/12
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: lite D:\wamp\www\achievement\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+NOTIC: [8] Undefined index: achievement D:\wamp\www\achievement\achievement\Achievement\Controller\IndexController.class.php 第 53 行.
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+
+[ 2015-06-27T13:22:10+08:00 ] 127.0.0.1 /achievement/Achievement/index/GetPlayerAchievement/SteamID/12
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: lite D:\wamp\www\achievement\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+NOTIC: [8] Undefined index: achievement D:\wamp\www\achievement\achievement\Achievement\Controller\IndexController.class.php 第 53 行.
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+
+[ 2015-06-27T13:22:10+08:00 ] 127.0.0.1 /achievement/Achievement/index/GetPlayerAchievement/SteamID/12
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: lite D:\wamp\www\achievement\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+NOTIC: [8] Undefined index: achievement D:\wamp\www\achievement\achievement\Achievement\Controller\IndexController.class.php 第 53 行.
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+
+[ 2015-06-27T13:22:10+08:00 ] 127.0.0.1 /achievement/Achievement/index/GetPlayerAchievement/SteamID/12
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: lite D:\wamp\www\achievement\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+NOTIC: [8] Undefined index: achievement D:\wamp\www\achievement\achievement\Achievement\Controller\IndexController.class.php 第 53 行.
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+
+[ 2015-06-27T13:22:30+08:00 ] 127.0.0.1 /achievement/Achievement/index/GetAchievement/AchievementID/12
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: lite D:\wamp\www\achievement\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+
+[ 2015-06-27T13:23:27+08:00 ] 127.0.0.1 /achievement/Achievement/index/GetAchievement/AchievementID/12
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: lite D:\wamp\www\achievement\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+
+[ 2015-06-27T13:23:47+08:00 ] 127.0.0.1 /achievement/Achievement/index/GetAchievement/AchievementID/12
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: lite D:\wamp\www\achievement\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+
+[ 2015-06-27T13:23:54+08:00 ] 127.0.0.1 /achievement/Achievement/index/GetAchievement/AchievementID/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: lite D:\wamp\www\achievement\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+
+[ 2015-06-27T13:23:54+08:00 ] 127.0.0.1 /achievement/Achievement/index/GetAchievement/AchievementID/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: lite D:\wamp\www\achievement\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+
+[ 2015-06-27T13:23:55+08:00 ] 127.0.0.1 /achievement/Achievement/index/GetAchievement/AchievementID/12
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: lite D:\wamp\www\achievement\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+
+[ 2015-06-27T13:24:25+08:00 ] 127.0.0.1 /achievement/Achievement/index/GetAchievement/AchievementID/12
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: lite D:\wamp\www\achievement\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+
+[ 2015-06-27T13:24:30+08:00 ] 127.0.0.1 /achievement/Achievement/index/GetAchievement/AchievementID/223
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: lite D:\wamp\www\achievement\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+
+[ 2015-06-27T13:24:33+08:00 ] 127.0.0.1 /achievement/Achievement/index/GetPlayerAchievement/SteamID/12
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: lite D:\wamp\www\achievement\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+
+[ 2015-06-27T13:24:36+08:00 ] 127.0.0.1 /achievement/Achievement/index/GetPlayerAchievement/SteamID/122
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: lite D:\wamp\www\achievement\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+
+[ 2015-06-27T13:24:37+08:00 ] 127.0.0.1 /achievement/Achievement/index/GetPlayerAchievement/SteamID/122
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: lite D:\wamp\www\achievement\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+
+[ 2015-06-27T13:24:37+08:00 ] 127.0.0.1 /achievement/Achievement/index/GetPlayerAchievement/SteamID/122
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: lite D:\wamp\www\achievement\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+
+[ 2015-06-27T13:24:37+08:00 ] 127.0.0.1 /achievement/Achievement/index/GetPlayerAchievement/SteamID/122
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: lite D:\wamp\www\achievement\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+
+[ 2015-06-27T13:24:37+08:00 ] 127.0.0.1 /achievement/Achievement/index/GetPlayerAchievement/SteamID/122
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: lite D:\wamp\www\achievement\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+
+[ 2015-06-27T13:25:04+08:00 ] 127.0.0.1 /achievement/Achievement/index/GetPlayerAchievement/SteamID/122
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: lite D:\wamp\www\achievement\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+
+[ 2015-06-27T13:25:07+08:00 ] 127.0.0.1 /achievement/Achievement/index/GetPlayerAchievement/SteamID/123456
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: lite D:\wamp\www\achievement\ThinkPHP\Library\Think\Db.class.php 第 37 行.
+

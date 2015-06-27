@@ -1,0 +1,36 @@
+[ 2015-06-27T11:08:40+08:00 ] 127.0.0.1 /achievement/index/GetAchievement/AchievementID/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Index
+
+[ 2015-06-27T11:08:41+08:00 ] 127.0.0.1 /achievement/index/GetAchievement/AchievementID/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Index
+
+[ 2015-06-27T11:09:19+08:00 ] 127.0.0.1 /achievement/index/GetAchievement/AchievementID/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Index
+
+[ 2015-06-27T11:09:19+08:00 ] 127.0.0.1 /achievement/index/GetAchievement/AchievementID/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Index
+
+[ 2015-06-27T11:09:19+08:00 ] 127.0.0.1 /achievement/index/GetAchievement/AchievementID/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Index
+
+[ 2015-06-27T11:09:19+08:00 ] 127.0.0.1 /achievement/index/GetAchievement/AchievementID/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Index
+
