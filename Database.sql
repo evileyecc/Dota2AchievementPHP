@@ -15,6 +15,6 @@ CREATE TABLE `achievement` (
 CREATE TABLE `user` (
    `id` int(10) not null auto_increment,
    `SteamID` varchar(255) default '0',
-   `achievement` varchar(255) default 'null',
+   `achievement` varchar(255) default '',
    PRIMARY KEY (`id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 AUTO_INCREMENT=2;

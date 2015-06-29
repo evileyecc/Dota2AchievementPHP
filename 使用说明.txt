@@ -1,0 +1,17 @@
+接口列表:
+	获取成就信息:
+		http://域名/index.php/Achievement/index/GetAchievement/AchievementID/{成就ID}
+		返回信息:
+		成功:返回Json数组.包含status和data两个键值.status为true.data中也是一个数组.包含成就ID.成就名称.成就描述.成就点数.例子:{"status":true,"data":{"id":"1","name":"test","description":"test","point":"10"}}
+		失败:返回Json数组.包含status和errormsg.status为false.errormsg为字符串.即错误信息.错误信息只有成就ID错误.例子:{"status":false,"errormsg":"Wrong Achievement"}
+	修改玩家成就信息:
+		http://域名/index.php/Achievement/index/UpdatePlayerAchievement/SteamID/{steamid}/Action/{方法}/AchievementID/{成就ID}
+		方法包含add和remove
+		返回信息:
+		成功:返回Json数组.包含status和data两个键值.status为true.data为字符串.例子:{"status":true,"data":"Success Add id 1"}
+		失败:返回Json数组.包含status和errormsg.status为false.errormsg为字符串.即错误信息.错误信息有错误的SteamID(Wrong SteamID).已经拥有成就(Already have this Achievement).未拥有这个成就(Not have this Achievement).未定义操作类型(Please type a Action)以及数据库插入错误(Insert Into mysql error)例子:{"status":false,"errormsg":"Wrong SteamID"}
+	查询玩家成就信息:
+		http://域名/index.php/Achievement/index/GetPlayerAchievement/SteamID/{steamid}
+		返回信息:
+		成功:返回json数组.包含status和data两个键值.status为true.data为多维数组.一个成就为一个数组.每个数组返回内容参见获取成就信息.例子:{"status":true,"data":[{"id":"1","name":"test","description":"test","point":"10"},{"id":"2","name":"Test2","description":"Test2","point":"100"}]}
+		失败:返回Json数组.包含status和errormsg.status为false.errormsg为字符串.即错误信息.错误信息有错误的SteamID(Wrong SteamID).
