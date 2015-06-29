@@ -1,3 +1,8 @@
+使用说明：
+		第一次使用请在achievement\Achievement\Conf\config.php修改数据库连接.格式:mysql://数据库用户名:数据库密码(如无密码请不要加前面的冒号)@地址:端口/数据库
+		例子1:mysql://root@localhost:3306/achievement
+		例子2:mysql://root:123456@localhost:3306/achievement
+
 接口列表:
 	获取成就信息:
 		http://域名/index.php/Achievement/index/GetAchievement/AchievementID/{成就ID}
