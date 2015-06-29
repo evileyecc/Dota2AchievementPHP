@@ -47,23 +47,24 @@ class IndexController extends Controller {
     				if ($result != 1) {
     					self::ajaxResponse("false","Insert To Mysql Error");
     				}
-    				self::ajaxResponse("true",$result);
+    				self::ajaxResponse("true","Success Add id ".$AchievementID);
     			}
     			break;
     		case 'remove':
     			$AchievementList = explode(',', $result['achievement']);
     			if (in_array($AchievementID, $AchievementList)) {
     				$key = array_search($AchievementID,$AchievementList);
-    				array_splice($arr1, $key, 1);
+    				unset($AchievementList[$key]);
+    				//dump($AchievementList);
     				$new_Achievement=$AchievementList[0];
     				for ($i=1; $i < count($AchievementList); $i++) { 
     					$new_Achievement = $new_Achievement.','.$AchievementList[$i];
     				}
     				$result = $User->where("SteamID=".$SteamID)->setField('achievement',$new_Achievement);
-    				if ($result != 1) {
-    					self::ajaxResponse("false",$AchievementList);
+    				if ($result == 1) {
+    					self::ajaxResponse("true","Success Remove id ".$AchievementID);
     				}
-    				self::ajaxResponse("true",$result);
+    				self::ajaxResponse("false","Insert Into mysql error");
     			}
     			else
     			{
