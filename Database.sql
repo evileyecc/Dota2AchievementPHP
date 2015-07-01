@@ -1,6 +1,6 @@
 --
 -- MySQL 5.6.17
--- Mon, 29 Jun 2015 07:38:04 +0000
+-- Wed, 01 Jul 2015 07:46:31 +0000
 --
 
 CREATE TABLE `achievement` (
@@ -12,9 +12,18 @@ CREATE TABLE `achievement` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 AUTO_INCREMENT=3;
 
 
+CREATE TABLE `admin` (
+   `id` int(10) not null auto_increment,
+   `username` varchar(255),
+   `password` varchar(255),
+   `salt` varchar(5),
+   PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 AUTO_INCREMENT=2;
+
+
 CREATE TABLE `user` (
    `id` int(10) not null auto_increment,
    `SteamID` varchar(255) default '0',
-   `achievement` varchar(255) default '',
+   `achievement` varchar(255) default 'null',
    PRIMARY KEY (`id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 AUTO_INCREMENT=2;

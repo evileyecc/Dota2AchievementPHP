@@ -3,24 +3,16 @@ namespace Achievement\Controller;
 use Think\Controller;
 class IndexController extends Controller {
     public function index(){
-		self::ajaxResponse("false","Wrong Location");
+		self::ajaxResponse("false",C('error_code.Wrong_Location'));
     }
-    public function GetAchievement($AchievementID,$action=''){
-    	if($action==''){
+    public function GetAchievement($AchievementID){
     		$av = M('Achievement','','DB_CONFIG');
     		$result = $av->where("id=".$AchievementID)->find();
     		if(empty($result))
     		{
-				self::ajaxResponse("false","Wrong Achievement");
+				self::ajaxResponse("false",C('error_code.Wrong_AchievementID'));
     		}
     		self::ajaxResponse("true",$result);
-    	}
-    	elseif($action=="array")
-    	{
-    		$av = M('Achievement','','DB_CONFIG');
-    		$result = $av->where("id=".$AchievementID)->find();
-    		return $result;
-    	}
     }
 
     public function UpdatePlayerAchievement($SteamID,$Action,$AchievementID,$token=''){
@@ -28,13 +20,13 @@ class IndexController extends Controller {
     	$result = $User->where("SteamID=".$SteamID)->find();
     	if(empty($result))
     	{
-			self::ajaxResponse("false","Wrong SteamID");
+			self::ajaxResponse("false",C('error_code.Wrong_SteamID'));
     	}
     	switch ($Action) {
     		case 'add':
     			$AchievementList = explode(',', $result['achievement']);
     			if (in_array($AchievementID, $AchievementList)) {
-    				self::ajaxResponse("false","Already have this Achievement");
+    				self::ajaxResponse("false",C('error_code.Already_Have'));
     			}
     			else
     			{
@@ -45,7 +37,7 @@ class IndexController extends Controller {
     				$new_Achievement = $new_Achievement.$AchievementID;
     				$result = $User->where("SteamID=".$SteamID)->setField('achievement',$new_Achievement);
     				if ($result != 1) {
-    					self::ajaxResponse("false","Insert To Mysql Error");
+    					self::ajaxResponse("false",C('error_code.Insert_to_sql_error'));
     				}
     				self::ajaxResponse("true","Success Add id ".$AchievementID);
     			}
@@ -64,15 +56,15 @@ class IndexController extends Controller {
     				if ($result == 1) {
     					self::ajaxResponse("true","Success Remove id ".$AchievementID);
     				}
-    				self::ajaxResponse("false","Insert Into mysql error");
+    				self::ajaxResponse("false",C('error_code.Insert_to_sql_error'));
     			}
     			else
     			{
-    				self::ajaxResponse("false","Not have this Achievement");
+    				self::ajaxResponse("false",C('error_code.Not_Have'));
     			}
     			break;
     		default:
-    			self::ajaxResponse("false","Please type a Action");
+    			self::ajaxResponse("false",C('error_code.No_Action'));
     			break;
     	}
     }
@@ -81,13 +73,19 @@ class IndexController extends Controller {
     	$result = $User->where("SteamID=".$SteamID)->find();
     	if(empty($result))
     	{
-    		self::ajaxResponse("false","Wrong SteamID");
+    		self::ajaxResponse("false",C('error_code.Wrong_SteamID'));
     	}
     	$data = array();
     	$AchievementList = explode(',', $result['achievement']);
     	for ($i=0; $i < count($AchievementList); $i++) { 
     		//$data = array_fill($i, 1, self::GetAchievement($AchievementList[$i],"array"));
-    		array_push($data, self::GetAchievement($AchievementList[$i],"array"));
+            $av = M('Achievement','','DB_CONFIG');
+            $result = $av->where("id=".$AchievementList[$i])->find();
+            if(empty($result))
+            {
+                continue;
+            }
+    		array_push($data, $result);
     	}
 		self::ajaxResponse("true",$data);
     }
@@ -99,7 +97,7 @@ class IndexController extends Controller {
     			$this->ajaxReturn($return);
     			break;
     		case 'false':
-    			$data = array('status' => false,'errormsg'=>$data);
+    			$data = array('status' => false,'error_code'=>$data);
     			$this->ajaxReturn($data);
     			break;
     		default:
